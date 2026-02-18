@@ -1,16 +1,9 @@
 # flutter_application_practice
 
-A new Flutter project.
+First repo for Flutter Class | © SkillBridge Institute of Technology
 
-## Getting Started
+This project is clone of Instagram two pages | Home/Feed page and profile page.
+Home page contains history scorable horizontally and posts vertically
+Profile contains some profile info: Pic, name and others.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The first day commit starts here. But the commit is continue and pushed here. This is gonna good and multifuctional Instagram clone with different functional pages.
